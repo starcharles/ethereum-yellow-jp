@@ -5,9 +5,12 @@
 
 yellow paperは日々アップデートされているため、訳した時点と最新のものは内容が異なる可能性があります。
 
-本翻訳は　"BYZANTIUM VERSION b7a4589 - 2018-02-07" を元にしている。)
+本翻訳は ["BYZANTIUM VERSION b7a4589 - 2018-02-07"](https://github.com/ethereum/yellowpaper/tree/b7a4589d77d5826dc3c0aeebd8bd539735ec4bce)
+ を元にしている。
 
-## update and changes
+
+
+## updates and changes
 
 2018-2-14 Appendix-B 「RLPエンコーディング」　を追加
 
